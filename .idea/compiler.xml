@@ -8,19 +8,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="small-spring-step-06" />
         <module name="small-spring-step-05" />
+        <module name="small-spring-step-07" />
         <module name="small-spring-step-02" />
         <module name="small-spring-step-01" />
         <module name="small-spring-step-04" />
         <module name="small-spring-step-03" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="small-spring-step-01" target="1.8" />
-      <module name="small-spring-step-02" target="1.8" />
-      <module name="small-spring-step-03" target="1.8" />
-      <module name="small-spring-step-04" target="1.8" />
-      <module name="small-spring-step-05" target="1.8" />
-      <module name="small-spring-step-06" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

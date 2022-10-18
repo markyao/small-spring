@@ -3,12 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/small-spring.iml" filepath="$PROJECT_DIR$/.idea/small-spring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/small-spring-step-01/small-spring-step-01.iml" filepath="$PROJECT_DIR$/small-spring-step-01/small-spring-step-01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/small-spring-step-02/small-spring-step-02.iml" filepath="$PROJECT_DIR$/small-spring-step-02/small-spring-step-02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/small-spring-step-03/small-spring-step-03.iml" filepath="$PROJECT_DIR$/small-spring-step-03/small-spring-step-03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/small-spring-step-04/small-spring-step-04.iml" filepath="$PROJECT_DIR$/small-spring-step-04/small-spring-step-04.iml" />
-      <module fileurl="file://$PROJECT_DIR$/small-spring-step-05/small-spring-step-05.iml" filepath="$PROJECT_DIR$/small-spring-step-05/small-spring-step-05.iml" />
-      <module fileurl="file://$PROJECT_DIR$/small-spring-step-06/small-spring-step-06.iml" filepath="$PROJECT_DIR$/small-spring-step-06/small-spring-step-06.iml" />
     </modules>
   </component>
 </project>
