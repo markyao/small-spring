@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="small-spring-step-06" />
         <module name="small-spring-step-05" />
+        <module name="small-spring-step-08" />
         <module name="small-spring-step-07" />
         <module name="small-spring-step-02" />
         <module name="small-spring-step-01" />
