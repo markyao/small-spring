@@ -1,6 +1,6 @@
 package cn.mark.springframework.test.bean;
 
-import cn.mark.springframework.context.annotation.Component;
+import cn.mark.springframework.stereotype.Component;
 
 import java.util.Random;
 

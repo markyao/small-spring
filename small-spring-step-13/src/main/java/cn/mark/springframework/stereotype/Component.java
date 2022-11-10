@@ -1,4 +1,4 @@
-package cn.mark.springframework.context.annotation;
+package cn.mark.springframework.stereotype;
 
 import java.lang.annotation.*;
 

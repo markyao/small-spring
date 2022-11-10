@@ -2,6 +2,7 @@ package cn.mark.springframework.context.annotation;
 
 import cn.hutool.core.util.ClassUtil;
 import cn.mark.springframework.beans.factory.config.BeanDefinition;
+import cn.mark.springframework.stereotype.Component;
 
 import java.util.LinkedHashSet;
 import java.util.Set;

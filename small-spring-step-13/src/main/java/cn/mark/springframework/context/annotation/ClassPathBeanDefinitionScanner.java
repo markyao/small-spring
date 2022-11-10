@@ -3,6 +3,7 @@ package cn.mark.springframework.context.annotation;
 import cn.hutool.core.util.StrUtil;
 import cn.mark.springframework.beans.factory.config.BeanDefinition;
 import cn.mark.springframework.beans.factory.support.BeanDefinitionRegistry;
+import cn.mark.springframework.stereotype.Component;
 
 import java.util.Set;
 
